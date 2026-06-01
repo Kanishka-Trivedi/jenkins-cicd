@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+**/node_modules
+npm-debug.log
+yarn-error.log
+.pnpm-store
+
+# Local Build Outputs
+dist
+build
+.next
+
+# Version Control and IDEs
+.git
+.gitignore
+.vscode
+.idea
+.DS_Store
+
+# Environment Variables
+.env
+.env*.local
